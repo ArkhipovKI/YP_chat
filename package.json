@@ -3,6 +3,7 @@
 	"version": "1.0.0",
 	"description": "",
 	"main": "dist/main.js",
+  	"module": "dist/module.js",
 	"scripts": {
 		"dev": "parcel index.hbs",
 		"build": "parcel build index.hbs"
